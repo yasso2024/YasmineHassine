@@ -1,8 +1,9 @@
-# Hey, I'm Yasmine Hassine 👋  
+# ![Hey, I'm Yasmine](https://img.shields.io/badge/Hey-I'm%20Yasmine-orange?style=for-the-badge&logo=github&logoColor=white&animation=glitch) 👋  
 
 ## 💻 Full Stack Developer | Student | Tech Enthusiast  
 
-<img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" alt="Profile Avatar" width="150" align="right" />
+<img src="https://img.freepik.com/vecteurs-premium/portrait-jeune-femme-gaie-lunettes-dans-vetements-style-decontracte-isole-illustration-vectorielle_22926546.jpg" 
+     alt="Profile Avatar" width="150" align="right" />
 
 ---
 
