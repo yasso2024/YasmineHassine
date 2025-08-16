@@ -1,9 +1,8 @@
-# YasmineHassine
 # Hey, I'm Yasmine Hassine 👋  
 
 ## 💻 Full Stack Developer | Student | Tech Enthusiast  
 
-![Profile Avatar]([https://avatars.githubusercontent.com/u/9919?s=200&v=4](https://www.google.com/url?sa=i&url=https%3A%2F%2Ffr.freepik.com%2Fphotos%2Fpersonnage-a-lunette%2F2&psig=AOvVaw1-YtIK0fb9lHIlXO3fdSzG&ust=1755463713743000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKCu4I2akI8DFQAAAAAdAAAAABAL)) <!-- Remplace ce lien par ta photo ou avatar -->
+<img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" alt="Profile Avatar" width="150" align="right" />
 
 ---
 
@@ -17,13 +16,17 @@
 ---
 
 ### 🌐 Let's Connect
-[![Linkedin](https://www.linkedin.com/in/yasmine-hassine-b56a122a5/)  
- 
-[![Facebook](https://www.facebook.com/yasmine.hassine.645016)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yasmine-hassine-b56a122a5/)  
+[![Facebook](https://img.shields.io/badge/Facebook-Connect-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/yasmine.hassine.645016)  
 
 ---
 
+### 📊 GitHub Stats  
+![Yasmine's GitHub stats](https://github-readme-stats.vercel.app/api?username=YasmineHassine&show_icons=true&theme=radical)  
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YasmineHassine&layout=compact&theme=radical)  
 
-### 🖼️ Fun Quote
+---
+
+### ✨ Fun Quote
 > "Coding is not just about writing code, it's about solving problems and creating impact 🚀."
