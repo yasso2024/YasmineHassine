@@ -5,8 +5,6 @@
 <img src="https://img.freepik.com/premium-vector/portrait-jeune-femme-gaie-lunettes-dans-vetements-style-decontracte-isole-illustration-vectorielle_22926546.jpg" 
      alt="Profile Avatar" width="150" align="right" />
 
-
-
 ---
 
 ### 👩‍🎓 About me
@@ -15,6 +13,17 @@
 - 🌱 J’apprends actuellement **Laravel et Bootstrap**  
 - 🎯 Objectif : devenir développeuse Full Stack  
 - ✨ Intéressée aussi par **l’IA, l’eLearning et le développement web moderne**  
+
+---
+
+### 🛠 Skills & Experience
+- ![PHP](https://img.icons8.com/color/48/000000/php.png) PHP : ⭐⭐⭐ (niveau moyen)  
+- ![React](https://img.icons8.com/color/48/000000/react-native.png) ReactJS : ⭐⭐⭐⭐⭐ (niveau avancé)  
+- ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) Node.js : ⭐⭐⭐⭐⭐ (niveau avancé)  
+- ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java : ⭐⭐⭐⭐ (bon niveau)  
+- ![SQL](https://img.icons8.com/color/48/000000/sql.png) SQL : ⭐⭐⭐⭐ (bon niveau)  
+- ![Laravel](https://img.icons8.com/color/48/000000/laravel.png) Laravel : ⭐⭐ (en apprentissage)  
+- ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap : ⭐⭐ (en apprentissage)  
 
 ---
 
