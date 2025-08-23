@@ -2,7 +2,8 @@
 ![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF5733&width=435&lines=Full+Stack+Developer;Student+in+Technology;Passionate+about+AI+%26+Web+Dev)
 
 ## 💻 Full Stack Developer | Student | Tech Enthusiast  
-<img src="https://img.freepik.com/premium-vector/portrait-jeune-femme-gaie-lunettes-dans-vetements-style-decontracte-isole-illustration-vectorielle_22926546.jpg" 
+<img src="![fe61e971-4843-4aec-beda-1887b6ffbfda](https://github.com/user-attachments/assets/5743b2e6-77b1-4d5c-8be9-f1e251fed58a)
+" 
      alt="Profile Avatar" width="150" align="right" />
 
 ---
