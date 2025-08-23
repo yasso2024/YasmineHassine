@@ -4,7 +4,7 @@
 ## 💻 Full Stack Developer | Student | Tech Enthusiast
 
 <img
-  src="https://github.com/user-attachments/assets/02283c70-b1e6-4c85-8d2e-97cee88662d2.jpg"
+  src="./assets/avatar.jpg"
   alt="Profile Avatar"
   width="150"
   align="right"
@@ -22,13 +22,13 @@
 ---
 
 ### 🛠 Skills & Experience
-- ![PHP](https://img.icons8.com/color/48/000000/php.png) **PHP** : ⭐⭐⭐ (niveau moyen)  
-- ![React](https://img.icons8.com/color/48/000000/react-native.png) **ReactJS** : ⭐⭐⭐⭐⭐ (avancé)  
-- ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) **Node.js** : ⭐⭐⭐⭐⭐ (avancé)  
-- ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) **Java** : ⭐⭐⭐⭐ (bon niveau)  
-- ![SQL](https://img.icons8.com/color/48/000000/sql.png) **SQL** : ⭐⭐⭐⭐ (bon niveau)  
-- ![Laravel](https://img.icons8.com/color/48/000000/laravel.png) **Laravel** : ⭐⭐ (en apprentissage)  
-- ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) **Bootstrap** : ⭐⭐ (en apprentissage)  
+- ![PHP](https://img.icons8.com/color/48/php.png) **PHP** : ⭐⭐⭐ (niveau moyen)  
+- ![React](https://img.icons8.com/color/48/react-native.png) **ReactJS** : ⭐⭐⭐⭐⭐ (avancé)  
+- ![Node.js](https://img.icons8.com/color/48/nodejs.png) **Node.js** : ⭐⭐⭐⭐⭐ (avancé)  
+- ![Java](https://img.icons8.com/color/48/java-coffee-cup-logo.png) **Java** : ⭐⭐⭐⭐ (bon niveau)  
+- ![SQL](https://img.icons8.com/color/48/sql.png) **SQL** : ⭐⭐⭐⭐ (bon niveau)  
+- ![Laravel](https://img.icons8.com/color/48/laravel.png) **Laravel** : ⭐⭐ (en apprentissage)  
+- ![Bootstrap](https://img.icons8.com/color/48/bootstrap.png) **Bootstrap** : ⭐⭐ (en apprentissage)  
 
 ---
 
@@ -39,16 +39,17 @@
 ---
 
 ### 📊 GitHub Stats
+<!-- Remplace "YasmineHassine" par ton vrai username si besoin -->
 ![Yasmine's GitHub stats](https://github-readme-stats.vercel.app/api?username=YasmineHassine&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YasmineHassine&layout=compact&theme=radical)  
 
 ---
 
 ## 🌍 Languages
-- ![Arabic](https://img.shields.io/badge/Arabic-Native-green?style=for-the-badge&logo=google-translate&logoColor=white)  
-- ![French](https://img.shields.io/badge/French-A2-blue?style=for-the-badge&logo=google-translate&logoColor=white)  
-- ![Italian](https://img.shields.io/badge/Italian-B2-red?style=for-the-badge&logo=google-translate&logoColor=white)  
-- ![English](https://img.shields.io/badge/English-A2-yellow?style=for-the-badge&logo=google-translate&logoColor=white)  
+- <img src="https://img.icons8.com/color/24/saudi-arabia-circular.png" width="22" alt="Arabic flag"/> **Arabe** — Langue maternelle  
+- <img src="https://img.icons8.com/color/24/france-circular.png" width="22" alt="French flag"/> **Français** — Niveau A2  
+- <img src="https://img.icons8.com/color/24/italy-circular.png" width="22" alt="Italian flag"/> **Italien** — Niveau B2  
+- <img src="https://img.icons8.com/color/24/great-britain-circular.png" width="22" alt="English flag"/> **Anglais** — Niveau A2  
 
 ---
 
