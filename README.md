@@ -3,9 +3,8 @@
 
 ## 💻 Full Stack Developer | Student | Tech Enthusiast
 
-<!-- ✅ Fix image: use the raw URL, not Markdown inside src -->
 <img
-  src="https://github.com/user-attachments/assets/5743b2e6-77b1-4d5c-8be9-f1e251fed58a"
+  src="https://github.com/user-attachments/assets/02283c70-b1e6-4c85-8d2e-97cee88662d2.jpg"
   alt="Profile Avatar"
   width="150"
   align="right"
@@ -14,11 +13,11 @@
 ---
 
 ### 👩‍🎓 About me
-- 🎓 Étudiante en 3ème année de technologie
-- 💻 Passionnée par **ReactJS, Node.js, Java, PHP, SQL**
-- 🌱 J’apprends actuellement **Laravel et Bootstrap**
-- 🎯 Objectif : devenir développeuse Full Stack
-- ✨ Intéressée par **l’IA, l’eLearning et le web moderne**
+- 🎓 Étudiante en 3ème année de technologie  
+- 💻 Passionnée par **ReactJS, Node.js, Java, PHP, SQL**  
+- 🌱 J’apprends actuellement **Laravel et Bootstrap**  
+- 🎯 Objectif : devenir développeuse Full Stack  
+- ✨ Intéressée par **l’IA, l’eLearning et le web moderne**  
 
 ---
 
@@ -29,34 +28,27 @@
 - ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) **Java** : ⭐⭐⭐⭐ (bon niveau)  
 - ![SQL](https://img.icons8.com/color/48/000000/sql.png) **SQL** : ⭐⭐⭐⭐ (bon niveau)  
 - ![Laravel](https://img.icons8.com/color/48/000000/laravel.png) **Laravel** : ⭐⭐ (en apprentissage)  
-- ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) **Bootstrap** : ⭐⭐ (en apprentissage)
+- ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) **Bootstrap** : ⭐⭐ (en apprentissage)  
 
 ---
 
 ### 🌐 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yasmine-hassine-b56a122a5/)
-[![Facebook](https://img.shields.io/badge/Facebook-Connect-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/yasmine.hassine.645016)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yasmine-hassine-b56a122a5/)  
+[![Facebook](https://img.shields.io/badge/Facebook-Connect-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/yasmine.hassine.645016)  
 
 ---
 
 ### 📊 GitHub Stats
-<!-- ℹ️ Remplace "YasmineHassine" par ton vrai username GitHub si différent -->
-![Yasmine's GitHub stats](https://github-readme-stats.vercel.app/api?username=YasmineHassine&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YasmineHassine&layout=compact&theme=radical)
+![Yasmine's GitHub stats](https://github-readme-stats.vercel.app/api?username=YasmineHassine&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YasmineHassine&layout=compact&theme=radical)  
 
 ---
 
 ## 🌍 Languages
-[🇸🇦 عربي](#-عربي) | [🇫🇷 Français](#-français) | [🇮🇹 Italiano](#-italiano)
-
-### 🇫🇷 Français
-Étudiante en technologie et développeuse Full Stack passionnée par ReactJS, Node.js et l’IA. J’explore Laravel & Bootstrap, avec l’objectif de bâtir des applis modernes, performantes et utiles.
-
-### 🇸🇦 عربي
-طالبة في السنة الثالثة ومطوّرة Full Stack شغوفة بـ **ReactJS و Node.js والذكاء الاصطناعي**. أتعلّم حاليًا **Laravel و Bootstrap**، وهدفي بناء تطبيقات حديثة وفعّالة.
-
-### 🇮🇹 Italiano
-Studentessa di terzo anno e sviluppatrice Full Stack appassionata di **ReactJS, Node.js e IA**. Sto imparando **Laravel e Bootstrap** con l’obiettivo di creare applicazioni moderne ed efficienti.
+- ![Arabic](https://img.shields.io/badge/Arabic-Native-green?style=for-the-badge&logo=google-translate&logoColor=white)  
+- ![French](https://img.shields.io/badge/French-A2-blue?style=for-the-badge&logo=google-translate&logoColor=white)  
+- ![Italian](https://img.shields.io/badge/Italian-B2-red?style=for-the-badge&logo=google-translate&logoColor=white)  
+- ![English](https://img.shields.io/badge/English-A2-yellow?style=for-the-badge&logo=google-translate&logoColor=white)  
 
 ---
 
