@@ -3,12 +3,7 @@
 
 ## 💻 Full Stack Developer | Student | Tech Enthusiast
 
-<img
-  src="./assets/avatar.jpg"
-  alt="Profile Avatar"
-  width="150"
-  align="right"
-/>
+
 
 ---
 
@@ -25,8 +20,8 @@
 - ![PHP](https://img.icons8.com/color/48/php.png) **PHP** : ⭐⭐⭐ (niveau moyen)  
 - ![React](https://img.icons8.com/color/48/react-native.png) **ReactJS** : ⭐⭐⭐⭐⭐ (avancé)  
 - ![Node.js](https://img.icons8.com/color/48/nodejs.png) **Node.js** : ⭐⭐⭐⭐⭐ (avancé)  
-- ![Java](https://img.icons8.com/color/48/java-coffee-cup-logo.png) **Java** : ⭐⭐⭐⭐ (bon niveau)  
-- ![SQL](https://img.icons8.com/color/48/sql.png) **SQL** : ⭐⭐⭐⭐ (bon niveau)  
+- ![Java](https://img.icons8.com/color/48/java-coffee-cup-logo.png) **Java** : ⭐⭐⭐ (niveau moyen)  
+- ![SQL](https://img.icons8.com/color/48/sql.png) **SQL** : ⭐⭐⭐ (niveau moyen)  
 - ![Laravel](https://img.icons8.com/color/48/laravel.png) **Laravel** : ⭐⭐ (en apprentissage)  
 - ![Bootstrap](https://img.icons8.com/color/48/bootstrap.png) **Bootstrap** : ⭐⭐ (en apprentissage)  
 
@@ -49,7 +44,7 @@
 - <img src="https://img.icons8.com/color/24/saudi-arabia-circular.png" width="22" alt="Arabic flag"/> **Arabe** — Langue maternelle  
 - <img src="https://img.icons8.com/color/24/france-circular.png" width="22" alt="French flag"/> **Français** — Niveau A2  
 - <img src="https://img.icons8.com/color/24/italy-circular.png" width="22" alt="Italian flag"/> **Italien** — Niveau B2  
-- <img src="https://img.icons8.com/color/24/great-britain-circular.png" width="22" alt="English flag"/> **Anglais** — Niveau A2  
+- <img src="https://img.icons8.com/color/24/great-britain-circular.png" width="22" alt="English flag"/> **Anglais** — Niveau A1  
 
 ---
 
