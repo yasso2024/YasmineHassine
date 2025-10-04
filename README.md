@@ -33,12 +33,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<!-- Remplace "YasmineHassine" par ton vrai username si besoin -->
-![Yasmine's GitHub stats](https://github-readme-stats.vercel.app/api?username=YasmineHassine&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YasmineHassine&layout=compact&theme=radical)  
-
----
 
 ## 🌍 Languages
 - <img src="https://img.icons8.com/color/24/saudi-arabia-circular.png" width="22" alt="Arabic flag"/> **Arabe** — Langue maternelle  
